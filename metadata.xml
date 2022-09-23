@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<build_constants>
+		<build_constant>
+			<name>GIT_HEAD_HASH</name>
+			<value>552278c1151f1aa2db4a5577f7efeb4b2b7f947c</value>
+		</build_constant>
+		<build_constant>
+			<name>RELEASE_VERSION</name>
+			<value>1.5.27</value>
+		</build_constant>
+		<build_constant>
+			<name>ARDUINO_LIBRARY_NAME</name>
+			<value>libnapc</value>
+		</build_constant>
+		<build_constant>
+			<name>ARDUINO_LIBRARY_VERSION</name>
+			<value>1.5.27</value>
+		</build_constant>
+		<build_constant>
+			<name>ARDUINO_LIBRARY_URL</name>
+			<value>https://libnapc.nap-software.com/</value>
+		</build_constant>
+	</build_constants>
+	<release_files>
+		<release_file>
+			<name>libnapc-linux.tar.gz</name>
+			<size>115058</size>
+			<checksum>de3f66395b06d6293ac1a89605ed8f4ea7406d40a580eaa72cb6fbf0fe6a15a6</checksum>
+		</release_file>
+		<release_file>
+			<name>libnapc-arduino.zip</name>
+			<size>470836</size>
+			<checksum>04bb1b5ac32cec534d5ca5123669829141e644b33d75b1ca72d748e8430c85ee</checksum>
+		</release_file>
+		<release_file>
+			<name>napc.h</name>
+			<size>140733</size>
+			<checksum>a97e6ad126962b3872d388d412a86d2d3ac9448e7c47b44d628b89dd2d509d3a</checksum>
+		</release_file>
+	</release_files>
+</metadata>
